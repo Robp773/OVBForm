@@ -1,0 +1,19 @@
+{
+  "name": "ovbform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robp773/OVBForm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robp773/OVBForm/issues"
+  },
+  "homepage": "https://github.com/Robp773/OVBForm#readme"
+}
