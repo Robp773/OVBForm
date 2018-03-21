@@ -1,0 +1,57 @@
+body {
+	text-align: center;
+}
+fieldset {
+	height: 300px;
+	vertical-align: middle;
+	position: relative;
+}
+P {
+	text-align: left;
+	width: 75%;
+	margin: auto;
+}
+input {
+	border: 1px solid gray;
+	width: 40%;
+	text-align: center;
+}
+input[type='radio'] {
+	width: 2%;
+}
+legend {
+	font-weight: bold;
+}
+label {
+	display: block;
+}
+#medicalReasonInfo {
+	width: 75%;
+	height: 25px;
+	border: 2px solid black;
+}
+.signatureInput {
+	width: 25%;
+}
+#signatureDiv {
+	margin: 10px;
+}
+.colOne, .colTwo {
+	width: 35%;
+	display: inline-block;
+	vertical-align: top;
+}
+.container {
+	width: 100%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.radioLabel {
+	display: inline-block;
+}
+
+#headerImg{
+    height: 150px;
+}
